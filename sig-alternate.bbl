@@ -1,0 +1,112 @@
+\begin{thebibliography}{10}
+
+\bibitem{lew2006}
+M.~S. Lew, N.~Sebe, C.~Djeraba, and R.~Jain, ``Content-based multimedia
+  information retrieval: State of the art and challenges,'' {\em ACM Trans.
+  Multimedia Comput. Commun. Appl.}, vol.~2, pp.~1--19, Feb. 2006.
+
+\bibitem{webaudiospec}
+P.~Adenot, C.~Wilson, and C.~Rogers, ``Web audio api | w3c working draft 10
+  october 2013.'' \url{http://www.w3.org/TR/webaudio/}.
+\newblock Work in progress, accessed: 2014-10-23.
+
+\bibitem{ganchev2005}
+T.~Ganchev, N.~Fakotakis, and G.~Kokkinakis, ``Comparative evaluation of
+  various mfcc implementations on the speaker verification task,'' in {\em 10th
+  International Conference on Speech and Computer (SPECOM 2005), Vol. 1},
+  pp.~191--194, 2005.
+
+\bibitem{webspeechapispec}
+G.~Shires and H.~Wennborg, ``Web speech api specification.''
+  \url{https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html}.
+\newblock W3C Community Group Report, accessed: 2014-10-23.
+
+\bibitem{rautiainen2003}
+M.~Rautiainen, T.~Seppanen, J.~Penttila, and J.~Peltola, ``Detecting semantic
+  concepts from video using temporal gradients and audio classification,'' in
+  {\em Proceedings of the 3rd International Conference on Image and Video
+  Retrieval}, pp.~260--270, 2003.
+
+\bibitem{oshaughnessy2008}
+D.~O'Shaughnessy, ``Invited paper: Automatic speech recognition: History,
+  methods and challenges,'' {\em Pattern Recogn.}, vol.~41, pp.~2965--2979,
+  Oct. 2008.
+
+\bibitem{wang2006}
+A.~Wang, ``The shazam music recognition service,'' {\em Commun. ACM}, vol.~49,
+  pp.~44--48, Aug. 2006.
+
+\bibitem{pan2004}
+J.-Y. Pan, H.~Yang, and C.~Faloutsos, ``Mmss: Multi-modal story-oriented video
+  summarization,'' in {\em Proceedings of the Fourth IEEE International
+  Conference on Data Mining}, ICDM '04, (Washington, DC, USA), pp.~491--494,
+  IEEE Computer Society, 2004.
+
+\bibitem{mathieu2010yaafe}
+B.~Mathieu, S.~Essid, T.~Fillon, J.~Prado, and G.~Richard, ``Yaafe, an easy to
+  use and efficient audio feature extraction software.,'' in {\em ISMIR},
+  pp.~441--446, 2010.
+
+\bibitem{peeters2004large}
+G.~Peeters, ``A large set of audio features for sound description (similarity
+  and classification) in the cuidado project,'' 2004.
+
+\bibitem{mckay2005jaudio}
+C.~McKay, I.~Fujinaga, and P.~Depalle, ``jaudio: A feature extraction
+  library,'' in {\em Proceedings of the International Conference on Music
+  Information Retrieval}, pp.~600--3, 2005.
+
+\bibitem{FFTinWebAudio}
+``Proper fft / ifft missing.''
+  \url{https://github.com/WebAudio/web-audio-api/issues/248}.
+\newblock Accessed: 2014-10-09.
+
+\bibitem{WebArrayMathAPI}
+``Web array math api specification | unofficial draft.''
+  \url{http://opera-mage.github.io/webarraymath/}.
+\newblock Accessed: 2014-10-09.
+
+\bibitem{jsfft}
+``jsfft | small, efficient javascript fft implementation for node or the
+  browser.,'' 2014.
+
+\bibitem{loy2006}
+G.~Loy, {\em Musimathics: The Mathematical Foundations of Music, Volume 1}.
+\newblock The MIT Press, 2006.
+
+\bibitem{lathi1998}
+B.~P. Lathi, {\em Modern Digital and Analog Communication Systems 3e Osece}.
+\newblock Oxford University Press, 3rd~ed., 1998.
+
+\bibitem{huang2001}
+X.~Huang, A.~Acero, and H.-W. Hon, {\em Spoken Language Processing: A Guide to
+  Theory, Algorithm, and System Development}.
+\newblock Upper Saddle River, NJ, USA: Prentice Hall PTR, 1st~ed., 2001.
+
+\bibitem{davis1980}
+S.~Davis and P.~Mermelstein, ``Comparison of parametric representations for
+  monosyllabic word recognition in continuously spoken sentences,'' {\em
+  Acoustics, Speech and Signal Processing, IEEE Transactions on}, vol.~28,
+  pp.~357--366, Aug 1980.
+
+\bibitem{grierson2010}
+M.~Grierson, ``Maximilian: A cross platform c++ audio synthesis library for
+  artists learning to program.,'' in {\em Proceedings of International Computer
+  Music Conference}, 2010.
+
+\bibitem{jAudio}
+``jaudio 1.0 feature appendix | spectral rolloff,'' 2006.
+
+\bibitem{travisci}
+``Travis ci - free hosted continuous integration platform for the open source
+  community,'' 2014.
+
+\bibitem{jenkins}
+``Jenkins - an extendable open source continuous integration server,'' 2014.
+
+\bibitem{gillet2004automatic}
+O.~Gillet and G.~Richard, ``Automatic transcription of drum loops,'' in {\em
+  Acoustics, Speech, and Signal Processing, 2004. Proceedings.(ICASSP'04). IEEE
+  International Conference on}, vol.~4, pp.~iv--269, IEEE, 2004.
+
+\end{thebibliography}
