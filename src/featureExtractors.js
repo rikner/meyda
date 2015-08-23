@@ -13,6 +13,7 @@ import perceptualSpread from './extractors/perceptualSpread';
 import perceptualSharpness from './extractors/perceptualSharpness';
 import mfcc from './extractors/mfcc';
 import powerSpectrum from './extractors/powerSpectrum';
+import chroma from './extractors/chroma';
 
 export default {
   "buffer" : function(args){
